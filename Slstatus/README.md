@@ -1,0 +1,2 @@
+# Slstatus
+# My Slstatus config
