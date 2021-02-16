@@ -79,3 +79,4 @@ and (re)compiling the source code.
 + Super + shift + u: awesome mode
 + Super + shift + t: tile mode
 + Super + shift + m: monocle mode
++ Super + shift + f: floating mode
